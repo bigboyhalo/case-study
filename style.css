@@ -1,0 +1,23 @@
+ol h5{
+    background: white;
+    padding: 15px;
+    border-radius: 20px;
+}
+
+.bob{
+    background: grey;
+    padding: 30px;
+    border-radius: 20px;
+    margin-top: 50px;
+}
+
+.bob3{
+    text-align: center;
+    color: honeydew;
+}
+
+.result{
+    background: lightpink;
+    text-align: center;
+    
+}
